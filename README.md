@@ -29,3 +29,10 @@ Featured Projects
 - Manual Testing Projects – Test cases, test plans, and bug reports.
 - API Testing – API requests, response validation, and test collections.
 - Database Testing – SQL queries and data validation.
+
+ GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rustamova06&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustamova06&layout=compact&theme=tokyonight" height="165" />
+</p>
