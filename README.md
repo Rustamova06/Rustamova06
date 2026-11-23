@@ -21,7 +21,7 @@ I am continuously developing my knowledge of software testing principles and str
 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,postgresql,python" />
+  <img src="https://skillicons.dev/icons?i=postman,github,postgresql,python" />
 </p>
 
 Featured Projects
