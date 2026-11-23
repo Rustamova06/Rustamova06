@@ -18,12 +18,9 @@ I am continuously developing my knowledge of software testing principles and str
 - SDLC & STLC
 - Test Design Techniques
 
-Tools & Technologies
-
-- Test Management: TestRail
-- API Testing: Postman
-- Project Management: Jira
-- Database: SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,git,github,postgresql,python" />
+</p>
 
 Featured Projects
 
