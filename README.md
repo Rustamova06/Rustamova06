@@ -1,6 +1,6 @@
-Nuray Rustamova 
+### Nuray Rustamova 
 
-Junior QA Engineer | Software Testing Enthusiast
+### Junior QA Engineer | Software Testing Enthusiast
 
 I am an aspiring Quality Assurance Engineer with a strong interest in software quality, testing methodologies, and delivering reliable user experiences.
 
