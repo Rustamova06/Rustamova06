@@ -30,9 +30,8 @@ Featured Projects
 - API Testing – API requests, response validation, and test collections.
 - Database Testing – SQL queries and data validation.
 
- GitHub Statistics
+ Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rustamova06&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustamova06&layout=compact&theme=tokyonight" height="165" />
-</p>
+- **GitHub:** [Rustamova06](https://github.com/Rustamova06)
+- **LinkedIn:** linkedin.com/in/nuray-rustamova-55b56b3b0
+- **Email:** nurayrustamova06@gmail.com
