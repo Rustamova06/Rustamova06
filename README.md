@@ -27,7 +27,7 @@ Tools & Technologies
 Project Management
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TestRail-Software_Test_Management-65C179?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
